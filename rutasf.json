@@ -1,0 +1,523 @@
+{
+  "r1": {
+    "idruta": "r1",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": [
+      1095838418,
+      1094288899,
+      5566778899,
+      1000060010,
+      1004000011,
+      1000060012,
+      1003000013,
+      1000000014,
+      1000000015,
+      1000000016,
+      1000000017,
+      1000007418,
+      2039856742,
+      2098765432,
+      2067890123,
+      2090123456,
+      2087654321,
+      2076543210,
+      2054321098,
+      2043210987,
+      2097654321,
+      3067890123,
+      3090123456,
+      3076543210,
+      3098765432,
+      3054321098,
+      3043210987,
+      3032109876,
+      3021098765,
+      3010097654,
+      3000987543,
+      3065432109
+    ]
+  },
+  "r2": {
+    "idruta": "r2",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r3": {
+    "idruta": "r3",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r4": {
+    "idruta": "r4",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r5": {
+    "idruta": "r5",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r6": {
+    "idruta": "r6",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r7": {
+    "idruta": "r7",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r8": {
+    "idruta": "r8",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r9": {
+    "idruta": "r9",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r10": {
+    "idruta": "r10",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r11": {
+    "idruta": "r11",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r12": {
+    "idruta": "r12",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r13": {
+    "idruta": "r13",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r14": {
+    "idruta": "r14",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r15": {
+    "idruta": "r15",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r16": {
+    "idruta": "r16",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r17": {
+    "idruta": "r17",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": [
+      123123789
+    ]
+  },
+  "r18": {
+    "idruta": "r18",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "A",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r19": {
+    "idruta": "r19",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r20": {
+    "idruta": "r20",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "B",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": [
+      3087654321
+    ]
+  },
+  "r21": {
+    "idruta": "r21",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r22": {
+    "idruta": "r22",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "C",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": [
+      14581479
+    ]
+  },
+  "r23": {
+    "idruta": "r23",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r24": {
+    "idruta": "r24",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "D",
+    "fecha_inicio": "05/01/2024",
+    "fecha_fin": "31/10/2024",
+    "campers": []
+  },
+  "r25": {
+    "idruta": "r25",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r26": {
+    "idruta": "r26",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r27": {
+    "idruta": "r27",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r28": {
+    "idruta": "r28",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r29": {
+    "idruta": "r29",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r30": {
+    "idruta": "r30",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r31": {
+    "idruta": "r31",
+    "ruta": "RutaNodeJS",
+    "trainer": "Pedro",
+    "salon": "Apolo",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r32": {
+    "idruta": "r32",
+    "ruta": "RutaNodeJS",
+    "trainer": "Juan",
+    "salon": "Apolo",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r33": {
+    "idruta": "r33",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r34": {
+    "idruta": "r34",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r35": {
+    "idruta": "r35",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r36": {
+    "idruta": "r36",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r37": {
+    "idruta": "r37",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r38": {
+    "idruta": "r38",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r39": {
+    "idruta": "r39",
+    "ruta": "RutaJava",
+    "trainer": "Camilo",
+    "salon": "Artemis",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r40": {
+    "idruta": "r40",
+    "ruta": "RutaJava",
+    "trainer": "Miguel",
+    "salon": "Artemis",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r41": {
+    "idruta": "r41",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r42": {
+    "idruta": "r42",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "A",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r43": {
+    "idruta": "r43",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": [
+      451278963
+    ]
+  },
+  "r44": {
+    "idruta": "r44",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "B",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r45": {
+    "idruta": "r45",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r46": {
+    "idruta": "r46",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "C",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r47": {
+    "idruta": "r47",
+    "ruta": "RutaNetCore",
+    "trainer": "Luis",
+    "salon": "Sputnik",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  },
+  "r48": {
+    "idruta": "r48",
+    "ruta": "RutaNetCore",
+    "trainer": "Andres",
+    "salon": "Sputnik",
+    "horario": "D",
+    "fecha_inicio": "05/03/2024",
+    "fecha_fin": "30/12/2024",
+    "campers": []
+  }
+}
